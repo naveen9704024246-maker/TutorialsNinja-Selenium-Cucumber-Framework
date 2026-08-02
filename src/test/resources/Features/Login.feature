@@ -1,5 +1,5 @@
 Feature: Login Functionality
-
+# Git Practice Session 1
   Background:
     Given user launches the browser
     When user clicks on My Account
